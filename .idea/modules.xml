@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authorization/authorization.iml" filepath="$PROJECT_DIR$/.idea/modules/authorization/authorization.iml" group="authorization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authorization/authorization_main.iml" filepath="$PROJECT_DIR$/.idea/modules/authorization/authorization_main.iml" group="authorization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authorization/authorization_test.iml" filepath="$PROJECT_DIR$/.idea/modules/authorization/authorization_test.iml" group="authorization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config/config_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config/config_main.iml" group="config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config/config_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config/config_test.iml" group="config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-common.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-common.iml" group="crm-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-common/crm-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-common/crm-common_main.iml" group="crm-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-common/crm-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-common/crm-common_test.iml" group="crm-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-config/crm-config.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-config/crm-config.iml" group="crm-config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-config/crm-config_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-config/crm-config_main.iml" group="crm-config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-config/crm-config_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-config/crm-config_test.iml" group="crm-config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-customer.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-customer.iml" group="crm-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-customer-facade.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-customer-facade.iml" group="crm-customer-facade" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-customer-facade/crm-customer-facade_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-customer-facade/crm-customer-facade_main.iml" group="crm-customer-facade" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-customer-facade/crm-customer-facade_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-customer-facade/crm-customer-facade_test.iml" group="crm-customer-facade" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-customer/crm-customer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-customer/crm-customer_main.iml" group="crm-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-customer/crm-customer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-customer/crm-customer_test.iml" group="crm-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-regCenter.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-regCenter.iml" group="crm-regCenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-regCenter-ha/crm-regCenter-ha.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-regCenter-ha/crm-regCenter-ha.iml" group="crm-regCenter-ha" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-regCenter-ha/crm-regCenter-ha_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-regCenter-ha/crm-regCenter-ha_main.iml" group="crm-regCenter-ha" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-regCenter-ha/crm-regCenter-ha_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-regCenter-ha/crm-regCenter-ha_test.iml" group="crm-regCenter-ha" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-regCenter/crm-regCenter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-regCenter/crm-regCenter_main.iml" group="crm-regCenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-regCenter/crm-regCenter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-regCenter/crm-regCenter_test.iml" group="crm-regCenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer.iml" group="crm-web-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer-feign/crm-web-customer-feign.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer-feign/crm-web-customer-feign.iml" group="crm-web-customer-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer-feign/crm-web-customer-feign_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer-feign/crm-web-customer-feign_main.iml" group="crm-web-customer-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer-feign/crm-web-customer-feign_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer-feign/crm-web-customer-feign_test.iml" group="crm-web-customer-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon/crm-web-customer-ribbon.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon/crm-web-customer-ribbon.iml" group="crm-web-customer-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon-hystrix/crm-web-customer-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon-hystrix/crm-web-customer-ribbon-hystrix.iml" group="crm-web-customer-ribbon-hystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon-hystrix/crm-web-customer-ribbon-hystrix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon-hystrix/crm-web-customer-ribbon-hystrix_main.iml" group="crm-web-customer-ribbon-hystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon-hystrix/crm-web-customer-ribbon-hystrix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon-hystrix/crm-web-customer-ribbon-hystrix_test.iml" group="crm-web-customer-ribbon-hystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon/crm-web-customer-ribbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon/crm-web-customer-ribbon_main.iml" group="crm-web-customer-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon/crm-web-customer-ribbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer-ribbon/crm-web-customer-ribbon_test.iml" group="crm-web-customer-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer/crm-web-customer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer/crm-web-customer_main.iml" group="crm-web-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-customer/crm-web-customer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-customer/crm-web-customer_test.iml" group="crm-web-customer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-hystrix-dashboard/crm-web-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-hystrix-dashboard/crm-web-hystrix-dashboard.iml" group="crm-web-hystrix-dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-hystrix-dashboard/crm-web-hystrix-dashboard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-hystrix-dashboard/crm-web-hystrix-dashboard_main.iml" group="crm-web-hystrix-dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-web-hystrix-dashboard/crm-web-hystrix-dashboard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-web-hystrix-dashboard/crm-web-hystrix-dashboard_test.iml" group="crm-web-hystrix-dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-zuul/crm-zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-zuul/crm-zuul.iml" group="crm-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-zuul/crm-zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-zuul/crm-zuul_main.iml" group="crm-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm-zuul/crm-zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm-zuul/crm-zuul_test.iml" group="crm-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microService.iml" filepath="$PROJECT_DIR$/.idea/modules/microService.iml" />
+    </modules>
+  </component>
+</project>

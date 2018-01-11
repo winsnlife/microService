@@ -1,0 +1,5 @@
+
+dependencies{
+    // https://mvnrepository.com/artifact/com.gitee.reger/spring-boot-starter-swagger
+    compile group: 'com.spring4all', name: 'spring-boot-starter-swagger', version: "1.5.0.RELEASE"
+}

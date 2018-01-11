@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
+</script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+  
+	 $.ajax("http://172.16.6.56:51520/bus/refresh", {
+        data: {
+          'cityname': '成都',
+          'date': '2016.12.12'
+        },
+		type:"post",
+        dataType: 'jsonp',
+        crossDomain: true,
+        success: function(data,status) {
+         alert("数据：" + data + "\n状态：" + status);
+        }
+      });
+	
+  });
+});
+</script>
+</head>
+<body>
+
+<button>向页面发送 HTTP POST 请求，并获得返回的结果</button>
+
+</body>
+</html>

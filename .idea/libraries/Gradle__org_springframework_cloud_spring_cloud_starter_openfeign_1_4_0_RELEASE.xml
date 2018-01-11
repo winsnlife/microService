@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-openfeign:1.4.0.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/JavaSolution/gradle/gradle_jar_home/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-openfeign/1.4.0.RELEASE/1d5b973a4a83e49672fdf86658166283b88645a/spring-cloud-starter-openfeign-1.4.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/JavaSolution/gradle/gradle_jar_home/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-openfeign/1.4.0.RELEASE/c1fb914ccb50b22ab489fe6d7acb3eebc88c79bb/spring-cloud-starter-openfeign-1.4.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

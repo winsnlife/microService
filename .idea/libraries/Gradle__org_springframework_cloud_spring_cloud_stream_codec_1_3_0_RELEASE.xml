@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-stream-codec:1.3.0.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/JavaSolution/gradle/gradle_jar_home/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-codec/1.3.0.RELEASE/6ecebe564a8573031014b90515af3e2b744ff4dd/spring-cloud-stream-codec-1.3.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/JavaSolution/gradle/gradle_jar_home/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-codec/1.3.0.RELEASE/be01a7e93aab8a0821c469ad0ca88d1eaae52c6b/spring-cloud-stream-codec-1.3.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

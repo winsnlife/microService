@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="authorization_main" target="1.8" />
+      <module name="authorization_test" target="1.8" />
+      <module name="config_main" target="1.8" />
+      <module name="config_test" target="1.8" />
+      <module name="crm-common_main" target="1.8" />
+      <module name="crm-common_test" target="1.8" />
+      <module name="crm-config_main" target="1.8" />
+      <module name="crm-config_test" target="1.8" />
+      <module name="crm-customer-facade_main" target="1.8" />
+      <module name="crm-customer-facade_test" target="1.8" />
+      <module name="crm-customer_main" target="1.8" />
+      <module name="crm-customer_test" target="1.8" />
+      <module name="crm-hystrix-dashboard_main" target="1.8" />
+      <module name="crm-hystrix-dashboard_test" target="1.8" />
+      <module name="crm-regCenter-ha_main" target="1.8" />
+      <module name="crm-regCenter-ha_test" target="1.8" />
+      <module name="crm-regCenter_main" target="1.8" />
+      <module name="crm-regCenter_test" target="1.8" />
+      <module name="crm-web-customer-feign_main" target="1.8" />
+      <module name="crm-web-customer-feign_test" target="1.8" />
+      <module name="crm-web-customer-ribbon-hystrix_main" target="1.8" />
+      <module name="crm-web-customer-ribbon-hystrix_test" target="1.8" />
+      <module name="crm-web-customer-ribbon_main" target="1.8" />
+      <module name="crm-web-customer-ribbon_test" target="1.8" />
+      <module name="crm-web-customer_main" target="1.8" />
+      <module name="crm-web-customer_test" target="1.8" />
+      <module name="crm-web-hystrix-dashboard_main" target="1.8" />
+      <module name="crm-web-hystrix-dashboard_test" target="1.8" />
+      <module name="crm-zuul_main" target="1.8" />
+      <module name="crm-zuul_test" target="1.8" />
+      <module name="hfzy-crm-config_main" target="1.8" />
+      <module name="hfzy-crm-config_test" target="1.8" />
+      <module name="hfzy-crm_main" target="1.8" />
+      <module name="hfzy-crm_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

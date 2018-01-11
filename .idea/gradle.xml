@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/JavaSolution/gradle/gradle-4.3-all/gradle-4.3" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/authorization" />
+            <option value="$PROJECT_DIR$/crm-common" />
+            <option value="$PROJECT_DIR$/crm-config" />
+            <option value="$PROJECT_DIR$/crm-customer" />
+            <option value="$PROJECT_DIR$/crm-customer-facade" />
+            <option value="$PROJECT_DIR$/crm-regCenter" />
+            <option value="$PROJECT_DIR$/crm-regCenter-ha" />
+            <option value="$PROJECT_DIR$/crm-web-customer" />
+            <option value="$PROJECT_DIR$/crm-web-customer-feign" />
+            <option value="$PROJECT_DIR$/crm-web-customer-ribbon" />
+            <option value="$PROJECT_DIR$/crm-web-customer-ribbon-hystrix" />
+            <option value="$PROJECT_DIR$/crm-web-hystrix-dashboard" />
+            <option value="$PROJECT_DIR$/crm-zuul" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

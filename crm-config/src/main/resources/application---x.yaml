@@ -1,0 +1,69 @@
+server:
+  port: 51520
+spring:
+  application:
+    name: config-server
+  profiles:
+    active: native
+  cloud:
+    config:
+      discovery:
+        enabled: true
+      fail-fast: true
+    bus:
+      trace:
+        enabled: true
+    stream:
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:51500/eureka/
+  instance:
+    prefer-ip-address: true
+#    instance-id: ${spring.application.name}:${server.port}
+
+#server.port=51520
+#spring.application.name=config-servcice
+#
+##==================================================================
+#
+##注册中心的访问地址
+#eureka.client.serviceUrl.defaultZone=http://localhost:51500/eureka/
+##eureka.client.serviceUrl.defaultZone=http://localhost:1111/eureka/
+#
+##eureka.instance.prefer-ip-address=true
+#eureka.instance.instanceId=${spring.application.name}:${server.port}
+##===================================================================
+#
+#spring.rabbitmq.host=172.16.8.87
+#spring.rabbitmq.port=9092
+#spring.rabbitmq.username=springcloud
+#spring.rabbitmq.password=123456
+#
+#spring.profiles.active=native
+#spring.cloud.config.server .native.searchLocations = classpath:/
+
+#spring.cloud.config.server.git.uri：配置git仓库位置
+#spring.cloud.config.server.git.searchPaths：配置仓库路径下的相对搜索位置，可以配置多个
+#spring.cloud.config.server.git.username：访问git仓库的用户名
+#spring.cloud.config.server.git.password：访问git仓库的用户密码
+#spring.cloud.config.server.git.uri: file://${user.home}/config-repo
+
+#Spring Cloud Config也提供本地存储配置的方式。我们只需要设置属性\
+#  spring.profiles.active=native，\
+#  Config Server会默认从应用的src/main/resource目录下检索配置文件。\
+#  也可以通过spring.cloud.config.server.native.searchLocations=file:F:/properties/
+#  属性来指定配置文件的位置。虽然Spring Cloud Config提供了这样的功能，\
+#  但是为了支持更好的管理内容和版本控制的功能，还是推荐使用git的方式。
+
+#注意
+#记住使用file:前缀的文件资源（缺省没有前缀通常是classpath）。\
+#  与任何Spring Boot配置一样，您可以嵌入${}样式的环境占位符，但请记住，Windows中的绝对路径需要额外的“/”，\
+#  例如file:///${user.home}/config-repo
+#警告
+#searchLocations的默认值与本地Spring Boot应用程序（所以[classpath:/, classpath:/config, file:./, file:./config]）相同\
+#  。这不会将application.properties从服务器暴露给所有客户端，因为在发送到客户端之前，\
+#  服务器中存在的任何属性源都将被删除。
+#小费
+#文件系统后端对于快速入门和测试是非常好的。要在生产中使用它，您需要确保文件系统是可靠的，
+#并在配置服务器的所有实例中共享。
